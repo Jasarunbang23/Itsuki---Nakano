@@ -39,38 +39,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['62895330014743', 'Wisnu', true],
-['62895330014743', 'Wisnu', true]
+['628973730304', 'dicky', true],
+['628973730304', 'dicky', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62895330014743'
-global.nomorown = '62895330014743'
-global.nomorown1 = '62895330014743'
-global.nomorown2 = '62895330014743'
+global.nomorbot = '6285747143511'
+global.nomorown = '628973730304'
+global.nomorown1 = '628973730304'
+global.nomorown2 = '628973730304'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Itsuki - Nakano'
-global.namebot = 'Yui-Chan'
-global.wm = '© Wisnu-MD'
-global.media = 'https://telegra.ph/file/64ad339d5ac8ba53652c0.jpg'
+global.author = 'Created By dicky'
+global.namebot = 'dicky'
+global.wm = '© dicky'
+global.media = 'https://telegra.ph/file/0d9743b0192056e755686.jpg'
 global.watermark = wm
-global.wm2 = 'Itsuki - Nakano '
+global.wm2 = 'dicky'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Itsuki - Nakano`
+global.titlebot = `dicky`
 global.stickpack = 'Made By'
-global.stickauth = `Itsuki - Nakano`
+global.stickauth = `dicky`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Wisnuu'
-global.nameown2 = 'Itsuki - Nakano'
+global.nameown1= 'dicky'
+global.nameown2 = 'dicky'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
@@ -79,7 +79,7 @@ global.lynk = 'https://lynk.id/kahfi.xd'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/Fikriixyz'
 global.sgh = 'https://github.com/Akamaru' //github
-global.sgc = 'https://chat.whatsapp.com/IpcNJt03pOq6oMx8ahvGsj' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-'
 
@@ -263,10 +263,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/d8871673368c51b739d10.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d8871673368c51b739d10.jpg'
+global.thumb = 'https://telegra.ph/file/0d9743b0192056e755686.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/0d9743b0192056e755686.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/d8871673368c51b739d10.jpg']
+global.thumbs = ['https://telegra.ph/file/0d9743b0192056e755686.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -306,9 +306,9 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/Fikriixyz"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6281515980491'
+global.phn = '628973730304'
 
-global.thumbdoc = 'https://telegra.ph/file/d8871673368c51b739d10.jpg'
+global.thumbdoc = 'https://telegra.ph/file/0d9743b0192056e755686.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
