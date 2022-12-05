@@ -1,16 +1,9 @@
 let handler =  m => m.reply(`
 ╭─「 🧚🏻‍♂️ *DONASI* 」
-│
-├ PULSA / DANA /  :
-├ • *083137354143*
-│
-├ • SAWERIA
-├ No Link Saweria
-│
+│ Chat owner
 ├ • OWNERKU
-├ wa.me/62895330014743
+├ wa.me/628973730304
 ╰───────────
-© 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝐅𝐢𝐤𝐫𝐢𝐢
 `.trim()) // Tambah sendiri kalo mau
 
 handler.menugroup = ['donasi']
